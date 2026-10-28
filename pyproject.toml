@@ -21,7 +21,7 @@ atlas-drive = "atlas_drive_runtime.cli:main"
 
 [project.urls]
 Homepage = "https://atlasmotion.com/"
-Repository = "https://github.com/TheEnergyNerd/atlas-drive"
+Repository = "https://github.com/pranavatlas/atlas-drive"
 
 [tool.setuptools.packages.find]
 where = ["src"]
